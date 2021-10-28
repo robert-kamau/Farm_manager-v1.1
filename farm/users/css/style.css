@@ -1,0 +1,12 @@
+body {
+    list-style: ;
+}
+
+ul {
+    list-style-type: none;
+     margin-left: 30px;
+    }
+
+ul li {
+    word-spacing: 10%;
+}    
