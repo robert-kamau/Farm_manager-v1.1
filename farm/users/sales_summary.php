@@ -16,9 +16,9 @@
       <tbody>
       <td>0001</td>
       <td>Eggs</td>
-      <td>5000</td>
+      <td>5,000</td>
       <td>10/- </td>
-      <td>5,000/-</td>
+      <td>50,000/-</td>
       </tr>
       <td>0002</td>
       <td>Eggs (Cracked)</td>
@@ -52,9 +52,13 @@
         <td></td>
         <td></td>
         <td><b>Total</b></td>
-        <td><b>264,000/-</b></td>
+        <td><b>304,000/-</b></td>
        </tr> 
       </tbody>
      </table> 
-    </div>
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-primary btn-md" data-toggle="modal" data-target="#">Create New <span class="glyphicon glyphicon-plus-sign"></span></button>
+                    <button type="button" class="btn btn-success">Edit <span class="glyphicon glyphicon-edit"></span></button>
+                 </div>
+                 </div>
 </div><!--sales summaary end -->
