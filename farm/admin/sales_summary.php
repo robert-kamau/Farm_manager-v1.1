@@ -56,5 +56,9 @@
        </tr> 
       </tbody>
      </table> 
+     <div class="btn-group">
+                    <button type="button" class="btn btn-primary btn-md" data-toggle="modal" data-target="#">Create New <span class="glyphicon glyphicon-plus-sign"></span></button>
+                    <button type="button" class="btn btn-success">Edit <span class="glyphicon glyphicon-edit"></span></button>
+                 </div>
     </div>
 </div><!--sales summaary end -->

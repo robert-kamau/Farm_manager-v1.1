@@ -31,7 +31,8 @@
       <div class="container"><!--container start-->        
            <br/><br/><br/>
            <?php include 'sales_summary.php'; ?>
-     
+
+                
 
      </div><!--container end-->
  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
